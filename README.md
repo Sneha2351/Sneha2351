@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sneha2351&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ## TOP PROGRAMMING LANGUAGES
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha2351&hide=TeX&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha2351&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ## CONTACT INFO
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sneha-sharma-0b1877190/)](https://www.linkedin.com/in/sneha-sharma-0b1877190/)
