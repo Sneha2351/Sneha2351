@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 ## GIT STATS
 ![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sneha2351&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-## TOP PROGRAMMING LANGUAGES
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha2351&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ## CONTACT INFO
