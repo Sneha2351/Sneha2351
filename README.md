@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 ## GIT STATS
 
 ## TOP PROGRAMMING LANGUAGES
+
+## CONTACT INFO
+[![Linkedin Badge](https://img.shields.io/badge/-dhanrajdc7-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sneha-sharma-0b1877190/)](https://www.linkedin.com/in/sneha-sharma-0b1877190/)
