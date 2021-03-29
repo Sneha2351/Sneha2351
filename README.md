@@ -3,7 +3,8 @@
 ## ABOUT ME
 Keen learner, Passionate for coding & develop something new with my ideas. 
 
-->Web & App Developer
+-Web & App Developer
+
 
 ## GIT STATS
 ![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sneha2351&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
