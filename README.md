@@ -2,8 +2,7 @@
 
 ## ABOUT ME
 Keen learner, Passionate for coding & develop something new with my ideas. 
-
--Web & App Developer
+- Web & App Developer
 
 
 ## GIT STATS
