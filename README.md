@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Sneha!
 
 <!--
 **Sneha2351/Sneha2351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## ABOUT ME
+- Web & App Developer
+
+## GIT STATS
+
+## TOP PROGRAMMING LANGUAGES
