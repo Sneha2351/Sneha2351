@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 
 ## CONTACT INFO
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sneha-sharma-0b1877190/)](https://www.linkedin.com/in/sneha-sharma-0b1877190/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SnehaSh33867594)](https://twitter.com/SnehaSh33867594)
