@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sneha!
+### Hi there 👋🏻 I'm Sneha Sharma!
 
 ## ABOUT ME
 Keen learner, Passionate for coding & develop something new with my ideas. 
